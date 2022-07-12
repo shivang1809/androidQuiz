@@ -1,0 +1,211 @@
+{   "data": [
+{
+"id":"1",
+"question":"HTML stands for",
+"option1":"Hyper Text Markup Language",
+"option2":"High Tech Markup Language",
+"option3":"Hyper Text Makeup Language",
+"option4":"High Tech Makeup Language",
+"answer":"Hyper Text Markup Language"
+},
+
+{
+"id":"2",
+"question":"A program which translates a high-level language program into a machine language program is called ?",
+"option1":"Compiler",
+"option2":"Interpreters",
+"option3":"Both (A) and (B)",
+"option4":"None of the above",
+"answer":"Both (A) and (B)"
+},
+
+{
+"id":"3",
+"question":" A sequence of instructions in a computer language to get the desired result is known as :",
+"option1":"An algorithm",
+"option2":"A decision table",
+"option3":"A program",
+"option4":"None of the Above",
+"answer":"A program"
+},
+
+{
+"id":"4",
+"question":"Which type of errors are flagged by Compilers ?",
+"option1":" Logical errors",
+"option2":"Syntax errors",
+"option3":"Both (A) and (B)",
+"option4":"None of the Above",
+"answer":"Syntax errors"
+},
+
+{
+"id":"5",
+"question":" An algorithm is best described as :",
+"option1":"A computer language",
+"option2":"A step by step procedure for solving a problem",
+"option3":"A branch of mathematics",
+"option4":" None of the above",
+"answer":"A step by step procedure for solving a problem"
+},
+
+{
+"id":"6",
+"question":"Bug means :",
+"option1":" A logical error in a program",
+"option2":"A difficult syntax error in a program",
+"option3":"Both (A) and (B)",
+"option4":"None of the above",
+"answer":"Both (A) and (B)"
+},
+
+{
+"id":"7",
+"question":"The part of a machine level instruction which tells the central processor what has to be done ?",
+"option1":"An operation code",
+"option2":"An address",
+"option3":"An operand",
+"option4":"None of the above",
+"answer":"An operation code"
+},
+
+{
+"id":"8",
+"question":"Which of the following is not true about an interpreter?",
+"option1":"Interpreter generates an object program from the source program.",
+"option2":"Interpreter is a kind of translator",
+"option3":"Interpreter analysis each source statement every time it is to be executed.",
+"option4":"None of the above",
+"answer":"None of the above"
+},
+
+{
+"id":"9",
+"question":"The errors that can be pointed out by the compiler are :",
+"option1":"Syntax errors",
+"option2":"Semantic errors",
+"option3":"Logical errors",
+"option4":"None of the above",
+"answer":"Syntax errors"
+},
+
+{
+"id":"10",
+"question":"Which of the following statement is not true?",
+"option1":"FORTRAN is a high-level language.",
+"option2":"A FORTRAN program written for the IBM-PC, is totally different from a FORTRAN program written in for the execution of SUN machine.",
+"option3":"FORTRAN is extensively used to write programs for programming scientific computations.",
+"option4":"None of the above",
+"answer":"A FORTRAN program written for the IBM-PC, is totally different from a FORTRAN program written in for the execution of SUN machine."
+},
+
+{
+"id":"11",
+"question":"A program that converts a high level language program to a set of instructions that can run on a computer is called a :",
+"option1":"Compiler",
+"option2":"Debugger",
+"option3":"Editor",
+"option4":"None of the above",
+"answer":"Compiler"
+},
+
+{
+"id":"12",
+"question":"The name given to a sequence of instructions in a computer language to get the desired result is :",
+"option1":" A program",
+"option2":"An algorithm",
+"option3":"A pseudocode",
+"option4":"A decision table",
+"answer":" A program"
+},
+
+{
+"id":"13",
+"question":"The language understood by a computer with out translation is called :",
+"option1":"Command language",
+"option2":"High-level language",
+"option3":"Assembly language",
+"option4":"Machine language",
+"answer":"Machine language"
+},
+
+{
+"id":"14",
+"question":"The mapping from assembly language instructions into machine language instructions is",
+"option1":"Many-one",
+"option2":"One-many",
+"option3":"One-one",
+"option4":"Many-many",
+"answer":"One-one"
+},
+
+{
+"id":"15",
+"question":"A compiler is :",
+"option1":"A machine-independent and OS-independent",
+"option2":"Machine-dependent and OS-dependent",
+"option3":"Machine-dependent and OS-independent",
+"option4":"Machine-independent and OS-dependent",
+"answer":"Machine-dependent and OS-dependent"
+},
+
+{
+"id":"16",
+"question":"Which one of the following statements is incorrect?",
+"option1":"A compiler compiles the source program.",
+"option2":"An assembler takes an assembly program as input.",
+"option3":"A compiler does the same type of function as interpreter.",
+"option4":"None of these",
+"answer":"A compiler does the same type of function as interpreter."
+},
+
+{
+"id":"17",
+"question":"A translator which reads an entire program written in high-level and converts it into machine language code is :",
+"option1":"Assembler",
+"option2":"Translator",
+"option3":"Compiler",
+"option4":"System software",
+"answer":"Compiler"
+},
+
+{
+"id":"18",
+"question":"Which of the following is not one of the process that a high-level language program must go through before it is ready to be executed?",
+"option1":"Translation",
+"option2":"Controlling",
+"option3":"Loading",
+"option4":"Linking",
+"answer":"Controlling"
+},
+
+{
+"id":"19",
+"question":"Which of the following is related to machine language ?",
+"option1":"Difficult to learn",
+"option2":"First generation language",
+"option3":"Machine dependent",
+"option4":"All of the above",
+"answer":"All of the above"
+},
+
+{
+"id":"20",
+"question":"The language C is:",
+"option1":"An assembly language",
+"option2":"A third generation high-level language",
+"option3":"A machine language",
+"option4":"None of the above",
+"answer":"A third generation high-level language"
+},
+
+{
+"id":"21",
+"question":" C compiler traps :",
+"option1":"Logical errors",
+"option2":"Syntax errors",
+"option3":"Both (A) and (B)",
+"option4":"None of these",
+"answer":"Both (A) and (B)"
+}
+]}
