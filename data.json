@@ -231,7 +231,7 @@
 
 {
 "id":"24",
-"question":"The sign �#� of the compiler directive must appear at the ______ of a line",
+"question":"The sign '#' of the compiler directive must appear at the ______ of a line",
 "option1":"Beginning",
 "option2":"Middle",
 "option3":"End",
@@ -241,7 +241,7 @@
 
 {
 "id":"25",
-"question":"Which committee standardize �C� programming language?",
+"question":"Which committee standardize 'C' programming language?",
 "option1":"ANSI",
 "option2":"W3C",
 "option3":"TRAI",
@@ -382,7 +382,7 @@
 {
 "id":"39",
 "question":"Which of the following is the use of id() function in python?",
-"option1":"Every object doesn�t have a unique id",
+"option1":"Every object doesn't have a unique id",
 "option2":"Id returns the identity of the object",
 "option3":"All of the mentioned",
 "option4":"None of the mentioned",
