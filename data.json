@@ -207,5 +207,195 @@
 "option3":"Both (A) and (B)",
 "option4":"None of these",
 "answer":"Both (A) and (B)"
+},
+
+{
+"id":"22",
+"question":"Who is father of C Language?",
+"option1":"Bjarne Stroustrup",
+"option2":"Dennis Ritchie",
+"option3":"James A. Gosling",
+"option4":"Dr. E.F. Codd",
+"answer":"Dennis Ritchie"
+},
+
+{
+"id":"23",
+"question":"Sign to comment line in Python",
+"option1":"# comment line",
+"option2":"// comment line",
+"option3":"* comment line",
+"option4":"",
+"answer":"# comment line"
+},
+
+{
+"id":"24",
+"question":"The sign �#� of the compiler directive must appear at the ______ of a line",
+"option1":"Beginning",
+"option2":"Middle",
+"option3":"End",
+"option4":"None of the above",
+"answer":"Beginning"
+},
+
+{
+"id":"25",
+"question":"Which committee standardize �C� programming language?",
+"option1":"ANSI",
+"option2":"W3C",
+"option3":"TRAI",
+"option4":"ISO",
+"answer":"ANSI"
+},
+
+{
+"id":"26",
+"question":"What is the maximum length of a Python identifier?",
+"option1":"32",
+"option2":"16",
+"option3":"128",
+"option4":"No fixed length is specified",
+"answer":"No fixed length is specified"
+},
+
+{
+"id":"27",
+"question":"Who developed Python Programming Language?",
+"option1":"Wick van Rossum",
+"option2":"Rasmus Lerdorf",
+"option3":"Guido van Rossum",
+"option4":"Niene Stom",
+"answer":"Guido van Rossum"
+},
+
+{
+"id":"28",
+"question":"Which type of Programming does Python support?",
+"option1":"object-oriented programming",
+"option2":"structured programming",
+"option3":"functional programming",
+"option4":"all of the mentioned",
+"answer":"all of the mentioned"
+},
+
+{
+"id":"29",
+"question":"Is Python case sensitive when dealing with identifiers?",
+"option1":"no",
+"option2":"yes",
+"option3":"Machine dependent",
+"option4":"None of the Above",
+"answer":"no"
+},
+
+{
+"id":"30",
+"question":"Which of the following is the correct extension of the Python file?",
+"option1":".python",
+"option2":".pl",
+"option3":".py",
+"option4":".p",
+"answer":".py"
+},
+
+{
+"id":"31",
+"question":"Which of the following is the correct extension of the HTML file?",
+"option1":".ht",
+"option2":".hml",
+"option3":".html",
+"option4":".hlml",
+"answer":".html"
+},
+
+{
+"id":"32",
+"question":"All keywords in Python are in _________.",
+"option1":"Capitalized",
+"option2":"lower case",
+"option3":"UPPER CASE",
+"option4":"None of the Above",
+"answer":"None of the Above"
+},
+
+{
+"id":"33",
+"question":"Which of the following is used to define a block of code in Python language?",
+"option1":"Indentation",
+"option2":"Key",
+"option3":"Brackets",
+"option4":"All of the mentioned",
+"answer":"Indentation"
+},
+
+{
+"id":"34",
+"question":"Which keyword is used for function in Python language?",
+"option1":"Function",
+"option2":"Def",
+"option3":"Fun",
+"option4":"Define",
+"answer":"Def"
+},
+
+{
+"id":"35",
+"question":"What does pip stand for python?",
+"option1":"unlimited length",
+"option2":"all private members must have leading and trailing underscores",
+"option3":"Preferred Installer Program",
+"option4":"None of the Above",
+"answer":"Preferred Installer Program"
+},
+
+{
+"id":"36",
+"question":"Which of the following is true for variable names in Python?",
+"option1":"underscore and ampersand are the only two special characters allowed",
+"option2":"unlimited length",
+"option3":"all private members must have leading and trailing underscores",
+"option4":"None of the Above",
+"answer":"unlimited length"
+},
+
+{
+"id":"37",
+"question":"Which of the following is the truncation division operator in Python?",
+"option1":"|",
+"option2":"//",
+"option3":"/",
+"option4":"%",
+"answer":"/"
+},
+
+{
+"id":"38",
+"question":"Which of the following functions is a built-in function in python?",
+"option1":"factorial()",
+"option2":"print()",
+"option3":"seed()",
+"option4":"sqrt()",
+"answer":"print()"
+},
+
+{
+"id":"39",
+"question":"Which of the following is the use of id() function in python?",
+"option1":"Every object doesn�t have a unique id",
+"option2":"Id returns the identity of the object",
+"option3":"All of the mentioned",
+"option4":"None of the mentioned",
+"answer":"Id returns the identity of the object"
+},
+
+{
+"id":"40",
+"question":"Which of the following is not a core data type in Python programming?",
+"option1":"Tuples",
+"option2":"Lists",
+"option3":"Class",
+"option4":"Dictionary",
+"answer":"Class"
 }
 ]}
