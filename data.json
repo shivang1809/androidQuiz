@@ -432,11 +432,11 @@
 {
 "id":"44",
 "question":"Which of the following is not a difference between HTML and XHTML?",
-"option1":"Charset in both html and xhtml is "text/html"",
+"option1":"Charset in both html and xhtml is 'text/html'",
 "option2":"Tags and attributes are case-insensitive in HTML but not in XHTML",
 "option3":"Special characters must be escaped using character entities in XHTML unlike HTML",
-"option4":"Charset in html is "text/html" where as in xhtml it is "application/xml+xhtml"",
-"answer":"Charset in both html and xhtml is "text/html""
+"option4":"Charset in html is 'text/html' where as in xhtml it is 'application/xml+xhtml'",
+"answer":"Charset in both html and xhtml is 'text/html'"
 },
 
 {
