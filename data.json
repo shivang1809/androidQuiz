@@ -397,5 +397,105 @@
 "option3":"Class",
 "option4":"Dictionary",
 "answer":"Class"
+},
+
+{
+"id":"41",
+"question":"What is HTML?",
+"option1":"HTML describes the structure of a webpage",
+"option2":"HTML is the standard markup language mainly used to create web pages",
+"option3":"HTML consists of a set of elements that helps the browser how to view the content",
+"option4":"All of the mentioned",
+"answer":"All of the mentioned"
+},
+
+{
+"id":"42",
+"question":"Who is the father of HTML?",
+"option1":"Rasmus Lerdorf",
+"option2":"Tim Berners-Lee",
+"option3":"Brendan Eich",
+"option4":"Sergey Brin",
+"answer":"Tim Berners-Lee"
+},
+
+{
+"id":"43",
+"question":"Which of the following is used to read an HTML page and render it?",
+"option1":"Web server",
+"option2":"Web network",
+"option3":"Web browser",
+"option4":"Web matrix",
+"answer":"Web browser"
+},
+
+{
+"id":"44",
+"question":"Which of the following is not a difference between HTML and XHTML?",
+"option1":"Charset in both html and xhtml is "text/html"",
+"option2":"Tags and attributes are case-insensitive in HTML but not in XHTML",
+"option3":"Special characters must be escaped using character entities in XHTML unlike HTML",
+"option4":"Charset in html is "text/html" where as in xhtml it is "application/xml+xhtml"",
+"answer":"Charset in both html and xhtml is "text/html""
+},
+
+{
+"id":"45",
+"question":"What is DOM in HTML?",
+"option1":"Language dependent application programming",
+"option2":"Hierarchy of objects in ASP.NET",
+"option3":"Application programming interface",
+"option4":"Convention for representing and interacting with objects in html documents",
+"answer":"Convention for representing and interacting with objects in html documents"
+},
+
+{
+"id":"46",
+"question":"In which part of the HTML metadata is contained?",
+"option1":"head tag",
+"option2":"title tag",
+"option3":"html tag",
+"option4":"body tag",
+"answer":"head tag"
+},
+
+{
+"id":"47",
+"question":"Which of the following is not the element associated with the HTML table layout?",
+"option1":"alignment",
+"option2":"color",
+"option3":"size",
+"option4":"spanning",
+"answer":"color"
+},
+
+{
+"id":"48",
+"question":"Which element is used for or styling HTML5 layout?",
+"option1":"CSS",
+"option2":"jQuery",
+"option3":"JavaScript",
+"option4":"PHP",
+"answer":"CSS"
+},
+
+{
+"id":"49",
+"question":"HTML is a subset of ___________.",
+"option1":"SGMT",
+"option2":"SGML",
+"option3":"SGME",
+"option4":"XHTML",
+"answer":"SGML"
+},
+
+{
+"id":"50",
+"question":"Which character is used to represent when a tag is closed in HTML?",
+"option1":"#",
+"option2":"!",
+"option3":"/",
+"option4":"\",
+"answer":"/"
 }
 ]}
