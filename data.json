@@ -611,7 +611,7 @@
 
 {
 "id":"62",
-"question":"Which of the following CSS property defines the different properties of all four sides of an element�s border in a single declaration?",
+"question":"Which of the following CSS property defines the different properties of all four sides of an element's border in a single declaration?",
 "option1":"border-width",
 "option2":"padding",
 "option3":"border",
