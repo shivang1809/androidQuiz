@@ -617,5 +617,15 @@
 "option3":"border",
 "option4":"border-collapse",
 "answer":"border-width"
+},
+
+{
+"id":"63",
+"question":"NFT stands for",
+"option1":"Non-fungible token",
+"option2":"Non-functioning token",
+"option3":"New file token",
+"option4":"News file token",
+"answer":"Non-fungible token"
 }
 ]}
