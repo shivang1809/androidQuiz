@@ -627,5 +627,375 @@
 "option3":"New file token",
 "option4":"News file token",
 "answer":"Non-fungible token"
+},
+
+{
+"id":"64",
+"question":"What is the capital of India",
+"option1":"Bhopal",
+"option2":"Delhi",
+"option3":"Kota",
+"option4":"Amritsar",
+"answer":"Delhi"
+},
+
+{
+"id":"65",
+"question":"What is the capital of Pakistan",
+"option1":"Islamabad",
+"option2":"Lahor",
+"option3":"Dhaka",
+"option4":"Tazakistan",
+"answer":"Islamabad"
+},
+
+{
+"id":"66",
+"question":"Capital of the state of Arunachal Pradesh",
+"option1":"Kohima",
+"option2":" Itanagar",
+"option3":"Dispur",
+"option4":"Tawang",
+"answer":"Itanagar"
+},
+
+{
+"id":"67",
+"question":"capital of the state of Haryana",
+"option1":"Kurukshetra",
+"option2":"Chandigarh",
+"option3":"Faridabad",
+"option4":"Gurgaon",
+"answer":"Chandigarh"
+},
+
+{
+"id":"68",
+"question":"Capital of the state of Bihar",
+"option1":"Jaipur",
+"option2":"Bhopal",
+"option3":"Patna",
+"option4":"Raipur",
+"answer":"Patna"
+},
+
+{
+"id":"69",
+"question":"Capital of the state of Madhya Pradesh",
+"option1":"Ujjain",
+"option2":"Indor",
+"option3":"Lucknow",
+"option4":"Bhopal",
+"answer":"Bhopal"
+},
+
+{
+"id":"70",
+"question":"Capital of the state of Uttar Pradesh",
+"option1":"Chandauli",
+"option2":"Varansi",
+"option3":"Lucknow",
+"option4":"Kanpur",
+"answer":"Luncknow"
+},
+
+{
+"id":"71",
+"question":"Capital of the state of Punjab",
+"option1":"Jalandhar",
+"option2":"Chandigarh",
+"option3":"Amritsar",
+"option4":"Kapurthala",
+"answer":"Chandigarh"
+},
+
+{
+"id":"72",
+"question":"capital of the state of Assam",
+"option1":"Guwahati",
+"option2":"Shillong",
+"option3":"Dispur",
+"option4":"Itanagar",
+"answer":"Dispur"
+},
+
+{
+"id":"73",
+"question":"capital of the state of Chhattisgarh ",
+"option1":"Bhopal",
+"option2":"Rachi",
+"option3":"Dehra Dun",
+"option4":"Raipur",
+"answer":"Raipur"
+},
+
+{
+"id":"74",
+"question":"capital of the state of Orissa",
+"option1":"Cuttack",
+"option2":"Bhubaneshwar",
+"option3":"Puri",
+"option4":"Patna",
+"answer":"Bhubaneshwar"
+},
+
+{
+"id":"75",
+"question":"capital of the state of Maharashtra",
+"option1":"Nagpur",
+"option2":"Aurangabad",
+"option3":"Mumbai (Bombay)",
+"option4":"Pune",
+"answer":"Mumbai (Bombay)"
+},
+
+{
+"id":"76",
+"question":"capital of the state of Meghalaya",
+"option1":"Shillong",
+"option2":"Dispur",
+"option3":"Cherrapunji",
+"option4":"Guwahati",
+"answer":"Shillong"
+},
+
+{
+"id":"77",
+"question":"headquarters of the union territory, Chandigarh",
+"option1":"Chandigarh",
+"option2":"Amritsar",
+"option3":"Ludhiana",
+"option4":"Jalandhar",
+"answer":"Chandigarh"
+},
+
+{
+"id":"78",
+"question":"capital of the state of Tamil Nadu",
+"option1":"Bangalore",
+"option2":"Madurai",
+"option3":"Hyderabad",
+"option4":"Chennai (Madras)",
+"answer":"Chennai (Madras)"
+},
+
+{
+"id":"79",
+"question":"capital of the state of Gujarat",
+"option1":"Gandhinagar",
+"option2":"Baroda",
+"option3":"Rajkot",
+"option4":"Ahmedabad",
+"answer":"Gandhinagar"
+},
+
+{
+"id":"80",
+"question":"capital of the state of Sikkim",
+"option1":"Thimphu",
+"option2":"Gangtok",
+"option3":"Darjeeling",
+"option4":"Imphal",
+"answer":"Gangtok"
+},
+
+{
+"id":"81",
+"question":"Winter capital of the state of Jammu & Kashmir",
+"option1":"Gulmarg",
+"option2":"Jammu",
+"option3":"Kargil",
+"option4":"Srinagar",
+"answer":"Jammu"
+},
+
+{
+"id":"82",
+"question":"capital of the state of Himachal Pradesh",
+"option1":"Manali",
+"option2":"Kullu",
+"option3":"Shimla",
+"option4":"Dalhousie",
+"answer":"Shimla"
+},
+
+{
+"id":"83",
+"question":"capital of the state of Mizoram",
+"option1":"Lunglei",
+"option2":"Aizawl",
+"option3":"Imphal",
+"option4":"Agartala",
+"answer":"Aizawl"
+},
+
+{
+"id":"84",
+"question":"headquarters of the union territory, Dadra & Nagar Haveli",
+"option1":"Kavaratti",
+"option2":"Daman",
+"option3":"Nashik",
+"option4":"Silvassa",
+"answer":"Silvassa"
+},
+
+{
+"id":"85",
+"question":"capital of the state of Andhra Pradesh",
+"option1":"Secunderabad",
+"option2":"Rajahmundry",
+"option3":"Hyderabad",
+"option4":"Vishakhapatnam",
+"answer":"Hyderabad"
+},
+
+{
+"id":"86",
+"question":"capital of the state of Karnataka",
+"option1":"Mangalore",
+"option2":"Mysore",
+"option3":"Chennai",
+"option4":"Bangalore",
+"answer":"Bangalore"
+},
+
+{
+"id":"87",
+"question":"capital of the state of Rajasthan",
+"option1":"Udaipur",
+"option2":"Jaipur",
+"option3":"Jaisalmer",
+"option4":"Ajmer",
+"answer":"Jaipur"
+},
+
+{
+"id":"88",
+"question":"headquarters of the union territory, Pondicherry",
+"option1":"Cuddalore",
+"option2":"Nagapattinam",
+"option3":"Karaikal",
+"option4":"Pondicherry",
+"answer":"Pondicherry"
+},
+
+{
+"id":"89",
+"question":"capital of the state of Manipur",
+"option1":"Kohima",
+"option2":"Bishnupur",
+"option3":"Imphal",
+"option4":"Agartala",
+"answer":"Imphal"
+},
+
+{
+"id":"90",
+"question":"summer capital of the state of Jammu & Kashmir",
+"option1":"Gulmarg",
+"option2":"Srinagar",
+"option3":"Jammu",
+"option4":"Leh",
+"answer":"Srinagar"
+},
+
+{
+"id":"91",
+"question":"capital of the state of West Bengal",
+"option1":"Durgapur",
+"option2":"Kharagpur",
+"option3":"Kolkata (Calcutta)",
+"option4":"Bhubaneshwar",
+"answer":"Kolkata (Calcutta)"
+},
+
+{
+"id":"92",
+"question":"headquarters of the union territory, Daman & Diu",
+"option1":"Surat",
+"option2":"Diu",
+"option3":"Daman",
+"option4":"Silvassa",
+"answer":"Daman"
+},
+
+{
+"id":"93",
+"question":"capital of the state of Goa",
+"option1":"Margao",
+"option2":"Marmagao",
+"option3":"Panaji",
+"option4":"Vasco da Gama",
+"answer":"Panaji"
+},
+
+{
+"id":"94",
+"question":"Which is the smallest state of India",
+"option1":"Rajasthan",
+"option2":"Assam",
+"option3":"Goa",
+"option4":"Punjab",
+"answer":"Goa"
+},
+
+{
+"id":"95",
+"question":"capital of the state of Kerala",
+"option1":"Kochi",
+"option2":"Ernakulam",
+"option3":"Kozhikode",
+"option4":"Thiruvananthapuram",
+"answer":"Thiruvananthapuram"
+},
+
+{
+"id":"96",
+"question":"headquarters of the union territory, Lakshadweep",
+"option1":"Port Blair",
+"option2":"Cannanore",
+"option3":"Kavaratti",
+"option4":"Silvassa",
+"answer":"Kavaratti"
+},
+
+{
+"id":"97",
+"question":"headquarters of the union territory, Andaman & Nicobar Islands",
+"option1":"Indira Point",
+"option2":"Silvassa",
+"option3":"Port Blair",
+"option4":"Kavaratti",
+"answer":"Port Blair"
+},
+
+{
+"id":"98",
+"question":"capital of the state of Tripura",
+"option1":"Agartala",
+"option2":"Udaipur",
+"option3":"Aizawl",
+"option4":"Imphal",
+"answer":"Agartala"
+},
+
+{
+"id":"99",
+"question":"50 + 25 =",
+"option1":"25",
+"option2":"65",
+"option3":"75",
+"option4":"80",
+"answer":"75"
+},
+
+{
+"id":"100",
+"question":"25 + 10 + 12 =",
+"option1":"47",
+"option2":"40",
+"option3":"57",
+"option4":"52",
+"answer":"47"
 }
 ]}
